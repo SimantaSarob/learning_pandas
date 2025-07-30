@@ -3,3 +3,4 @@ data/*
 commit
 push
 .idea
+test/*
